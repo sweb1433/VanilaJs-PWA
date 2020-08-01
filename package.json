@@ -1,0 +1,32 @@
+{
+  "name": "pwa-with-vanilla-js-master",
+  "version": "1.0.0",
+  "description": "Simple PWA wth push notification and add to homescree feature with caching.",
+  "main": "serviceWorker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweb1433/VanilaJs-PWA.git"
+  },
+  "keywords": [
+    "Javascript",
+    "pwa",
+    "vanilla",
+    "JS",
+    "HTML5",
+    "CSS",
+    "Push",
+    "Notification",
+    "Add",
+    "to",
+    "homescreen."
+  ],
+  "author": "Sushant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweb1433/VanilaJs-PWA/issues"
+  },
+  "homepage": "https://github.com/sweb1433/VanilaJs-PWA#readme"
+}

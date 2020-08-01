@@ -14,7 +14,8 @@ In this article, we are going to build a PWA from scratch with HTML, CSS, and Ja
 - Final thoughts
 - Next steps
 
-[Continue reading](https://www.ibrahima-ndaw.com/blog/how-to-build-pwa-with-javascript/)
+# [How to Run ]
+On Linux
 
-You can check it out live [here](https://devcoffee-pwa.netlify.com/).
-
+- 1. run 'sudo npm install -g http-server'
+- 2. go to project directory and run 'http-server -o'
